@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_description">FocusGuard uses Accessibility permission strictly to assist you in detecting social media doomscrolling sessions, displaying mindfulness nudge overlays, and enforcing your daily focus limits.</string>
+</resources>
